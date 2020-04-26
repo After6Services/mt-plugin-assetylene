@@ -71,7 +71,7 @@ above tag values to build the default HTML created by Movable Type. (In Assetyle
 
 ## Asset Insertion Template Module Structure
 
-The Asset Insertion Template Module should use the Assets container tagset to enter the asset context so Movable Type iterates through the assets selected for inserting. (See [Template Tags in Movable Type](https://movabletype.org/documentation/designer/template-tags.html) for further explanation of the container tags within Movable Type templates.)
+The Asset Insertion Template Module should use the Assets container tagset to enter the asset context so Movable Type iterates through the assets selected for inserting. (See [Template Tags in Movable Type](https://movabletype.org/documentation/designer/template-tags.html) for further explanation of the use of container tags within Movable Type templates.)
 
 This example Asset Insertion template module illustrates this concept:
 
@@ -119,13 +119,13 @@ This plugin has been released under the terms of the GNU Public License, version
 
 # Authorship
 
-Brad Choate originally created this plugin for Six Apart in December 2008 (version 1.0). Byrne Reese made some updates in May 2009 (version 1.01 and 1.02). Since being imported to Github in 2010, Endevver has maintained this plugin with commits from Dan Wolfgang. Since 2019, After6 Services has maintained this plugin with commits from Dave Aiello.
+[Brad Choate](https://bradchoate.com) originally created this plugin for Six Apart in December 2008 (version 1.0). Byrne Reese made some updates in May 2009 (version 1.01 and 1.02). Since being imported to Github in 2010 until 2019, [Endevver](https://endevver.com) maintained this plugin with commits from [Dan Wolfgang](http://danandsherree.com). Since 2019, [After6 Services](http://after6services.com) has maintained this plugin with commits from [Dave Aiello](https://twitter.com/daveaiello).
 
 # Copyright
 
-Copyright &copy; 2008, Six Apart Ltd. All Rights Reserved.
-Copyright &copy; 2010-2019, Endevver, LLC. All Rights Reserved.
-Copryright &copy; 2019-2020, After6 Services LLC. All Rights Reserved.
+Copyright &copy; 2008, [Six Apart Ltd.](https://movabletype.com) All Rights Reserved.
+Copyright &copy; 2010-2019, [Endevver LLC](https://endevver.com). All Rights Reserved.
+Copryright &copy; 2019-2020, [After6 Services LLC](http://after6services.com). All Rights Reserved.
 
 Movable Type is a trademark of Six Apart Ltd.
 
