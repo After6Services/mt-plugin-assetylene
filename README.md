@@ -17,7 +17,7 @@ to be updated to work with Assetylene.**
 
 To install this plugin follow the instructions found here:
 
-http://tinyurl.com/easy-plugin-install
+http://after6services.com/2020/01/the-ultimate-guide-to-installing-movable-type-plugins/
 
 # Configuration
 
